@@ -54,7 +54,9 @@ This repo includes:
 
 Paste the following search queries into Google to try discovering open webcams (use ethically):
 
-### Axis Cameras
+### Axis Network Cameras 
+
+```google
 intitle:"Live View / AXIS"
 inurl:axis-cgi/mjpg/video.cgi
 intitle:"live view" intitle:axis
@@ -62,7 +64,6 @@ inurl:axis-cgi/jpg
 inurl:indexFrame.shtml "Axis Video Server"
 
 
-### NetCam & webcamXP
 intitle:"NetCamSC*"
 intitle:"NetCamXL*"
 intitle:"webcamXP 5"
@@ -70,7 +71,6 @@ intitle:"webcamXP 5"
 intitle:"EVOCam" inurl:"webcam.html"
 
 
-### Network Camera Queries
 allintitle:Network Camera NetworkCamera
 inurl:/ViewerFrame? intitle:"Network Camera NetworkCamera"
 inurl:"view.shtml" "camera"
@@ -79,7 +79,6 @@ inurl:/view.shtml
 inurl:/view/index.shtml
 
 
-### General Live Camera Links
 inurl:"/cgi-bin/guestimage.html" "Menu"
 inurl:1051/viewer/live/index.html
 inurl:"/viewer/live/index.html"
@@ -89,8 +88,6 @@ inurl:"webcam.html" intitle:"InsertPlaceNameHere"
 inurl:"MultiCameraFrame?Mode=Motion"
 camera linksys inurl:main.cgi
 "Camera Live Image" inurl:"guestimage.html"
-
-
 ---
 
 
